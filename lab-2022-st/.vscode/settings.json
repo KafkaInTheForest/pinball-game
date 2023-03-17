@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "cmath": "c",
+        "*.tcc": "c",
+        "common.h": "c",
+        "math.h": "c",
+        "func.h": "c"
+    }
+}
